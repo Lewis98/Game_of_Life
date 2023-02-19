@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(41,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(41,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(42,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(42,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(77,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(102,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(109,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(110,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(116,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(119,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(144,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(149,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(165,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lewis\source\repos\SFML_GoL\SFML_GoL\main.cpp(191,27): warning C4018: '<': signed/unsigned mismatch
+  SFML_GoL.vcxproj -> C:\Users\lewis\source\repos\SFML_GoL\Debug\SFML_GoL.exe
